@@ -1,0 +1,20 @@
+Django Framework:
+
+models: 
+The models are similiar to the entities in gql, express. Classes and their fields are defined here. 
+
+serializers: makes it easier to receive json data. 
+
+views:
+“A view is a callable which takes a request and returns a response. 
+This can be more than just a function, and Django provides an example of some classes which can be used as views.”
+
+
+
+
+
+
+//updating
+python manage.py makemigrations
+python manage.py migrate
+ 
